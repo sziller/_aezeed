@@ -1,0 +1,9 @@
+= _aezeed
+
+*Aezeed* style mnemonic phrase generator: *go - to - python* translation.
+
+Aezeed is a mnemonic phrase generator proposed and implemented by Lightning Labs.
+I need the procedure to run under *python3*. Let's translate it.
+
+Here's the readme of the original repo: + 
+https://github.com/0xNaka/LND/blob/master/aezeed/README.md
